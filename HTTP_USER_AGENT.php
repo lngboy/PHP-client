@@ -1,3 +1,6 @@
+PHP配置文件中默认user_agent的值为PHP
+
+
 各大经典浏览器HTTP_USER_AGENT详细
 
 IE 各个版本典型的userAgent如下：
